@@ -10,7 +10,7 @@ menopausal status, lymph node involvement, or radiation therapy are most strongl
 -To identify and quantify the specific clinical and pathological factors that are most strongly associated with the recurrence of breast cancer within the observed patient cohort, thereby describing
 the key risk profile for recurrence. 
 
--The dataset has 7 columns: 
+-The dataset has 9 columns: 
 
 1.age: Patient's age categorized into ranges (e.g., 10-19, 20-29, etc.). 
 
