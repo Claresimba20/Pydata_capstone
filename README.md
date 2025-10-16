@@ -1,7 +1,7 @@
 # BREAST CANCER RECURRENCE
-Breast cancer is the leading cause of cancer mortality among women worldwide.. The disease is strongly associated with estrogen-related factors, including early menarche, late menopause, and postmenopausal obesity.
+Breast cancer is the leading cause of cancer mortality among women worldwide. The disease is strongly associated with estrogen-related factors, including early menarche, late menopause, and postmenopausal obesity.
 Conversely, early childbirth, multiparity, and breastfeeding confer protective effects.Although genetic mutations significantly increase susceptibility, they account for only a small fraction of cases,
-they account for only a small fraction of cases, underscoring the multifactorial nature of breast cancer etiology.
+underscoring the multifactorial nature of breast cancer etiology.
 ## Problem Statement
 Breast cancer recurrence remains one of the most critical challenges in oncology, as it significantly impacts patient survival and quality of life. Despite advances in treatment, many patients experience
 a return of the disease after initial therapy, often due to complex interactions among clinical, pathological, and treatment-related factors.Understanding which patient characteristics such as tumor size,
