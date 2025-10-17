@@ -133,9 +133,10 @@ The chi square test revealed a significant (χ²= 9.7806, p = 0.0018) associatio
 ### Menopausal Status and Age vs Recurrence
 <img width="1687" height="495" alt="image" src="https://github.com/user-attachments/assets/3b39cc05-c465-40df-a23e-abccbb7edb96" /> 
 
--The multivariate bar plots display recurrence percentages across age groups separately for each menopausal status. 
--The plots suggest higher recurrence proportions in middle-age bins (30–49) for both premenopausal and postmenopausal groups (e.g., 42.9% recurrence in premenopausal 30–39, ~44.4% in postmenopausal 40–49). 
--However, many age×menopause combinations contain few observations, especially in the lt40 strata, so percentages are unstable. 
+-Younger premenopausal patients around 30–39 show a relatively high proportion of recurrence (42.9%). That may suggest younger premeno patients have a higher recurrence proportion compared with other premeno age bins in this dataset.
+In the ge40 group, 40–49 stands out with a higher recurrence share (44.4%), suggesting a possible vulnerable age band among older menopausal categories.
+Very old (70–79) and the youngest bins (20–29 in some groups) show low recurrence percentages but those bins may have small sample sizes.
+The lt40 panel is sparse and inconsistent; you cannot conclude much from it without counts.
 
 ### Effect of Tumor size and menopausal status on Recurrence
 <img width="1626" height="421" alt="image" src="https://github.com/user-attachments/assets/1d28a7fa-963a-48d8-a348-1b369bf87c61" /> 
